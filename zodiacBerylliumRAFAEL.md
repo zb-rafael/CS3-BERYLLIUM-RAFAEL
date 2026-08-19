@@ -42,5 +42,5 @@ Chinese Zodiac Sign
 
 ```
   
-
+<img width="1831" height="340" alt="output" src="https://github.com/user-attachments/assets/835a17e2-ec5a-4adb-9cf3-a1aad00d2cd0" />
 
