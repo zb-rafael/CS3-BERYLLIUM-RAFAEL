@@ -4,8 +4,9 @@ Chinese Zodiac Sign
   #RAFAEL,ZYA KYNDER TARHATA B.
   #9 - BERYLLIUM
 
+  print("Hello ! Welcome to Zya's Zodiac Code Revealer.")
   #ASKS THE USER TO INPUT THEIR BIRTH YEAR
-  birth_year = int(input("Enter your birth year (ex: 2011, 2000):"))
+  birth_year = int(input("Enter your birth year. Note that your birth year must not be earlier than 1900. (ex: 2011, 2000):"))
 
   #CHECKS IF USER'S INPUT IS VALID (YEAR 1900+ ONLY)
   if birth_year < 1900:
@@ -39,6 +40,8 @@ Chinese Zodiac Sign
       print("Your Chinese Zodiac Sign is: Dog 狗 (gǒu) ")
   else:
       print("Your Chinese Zodiac Sign is: Pig: 猪 (zhū) ")
+  
+  print("Goodbye ! Thank you for stopping by.") 
 
 ```
   
