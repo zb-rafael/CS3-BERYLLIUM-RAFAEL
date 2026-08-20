@@ -4,7 +4,7 @@ Chinese Zodiac Sign
   #RAFAEL,ZYA KYNDER TARHATA B.
   #9 - BERYLLIUM
 
-  print("Hello ! Welcome to Zya's Zodiac Code Revealer.")
+  print("Hello ! Welcome to Zya's Chinese Zodiac Sign Revealer Program.")
   #ASKS THE USER TO INPUT THEIR BIRTH YEAR
   birth_year = int(input("Enter your birth year. Note that your birth year must not be earlier than 1900. (ex: 2011, 2000):"))
 
@@ -44,6 +44,8 @@ Chinese Zodiac Sign
   print("Goodbye ! Thank you for stopping by.") 
 
 ```
-  
-<img width="1831" height="340" alt="output" src="https://github.com/user-attachments/assets/835a17e2-ec5a-4adb-9cf3-a1aad00d2cd0" />
+
+<img width="1648" height="694" alt="ChineseZodiacSign" src="https://github.com/user-attachments/assets/c8b5e442-07ae-4867-974f-abcb10adea03" />
+
+
 
